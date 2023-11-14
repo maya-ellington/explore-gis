@@ -1,4 +1,6 @@
-# gis-visual-primer
+# Explore GIS
+
+Check out our project hosted here: https://exploregis.lofty.codes/
 
 #steps to run
 
